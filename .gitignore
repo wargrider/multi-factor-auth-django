@@ -1,0 +1,4 @@
+db.sqlite3pip
+venv/
+.idea/
+__pycache__/
