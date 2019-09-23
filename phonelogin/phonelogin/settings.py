@@ -41,7 +41,8 @@ INSTALLED_APPS = [
     'login',
     'rest_framework',
     'rest_framework.authtoken',
-    'phone_field'
+    'phone_field',
+    'rest_auth',
 ]
 SITE_ID = 1
 AUTH_USER_MODEL = 'login.User'
